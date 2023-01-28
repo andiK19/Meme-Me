@@ -1,7 +1,7 @@
 //
 //  SceneDelegate.swift
 //  MemeMe
-//
+//  Udacity Nanodegree Project
 //  Created by Andreas Kremling on 16.06.22.
 //
 
